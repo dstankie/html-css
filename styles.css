@@ -1,5 +1,7 @@
 span { color: blue;}
-.important { font-size: 40px;}
+.wholedoc { font:15px arial,sans-serif; width: 960px; margin-top: 20px;  }
+.h1 { font-size: 40px; color: white; background-color: darkblue; }
+.important { font-size: 40px; }
 .centered { text-align: center;}
 #book { background: pink;}
 .list { background: #CCC;
